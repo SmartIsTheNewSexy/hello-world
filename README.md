@@ -1,4 +1,4 @@
 # hello-world
 
 Hi there!
-I'm kinda new here. Let the adventure begin!
+Let the adventure begin!
